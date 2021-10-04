@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Never Stop Learning Luis Felipe Garção Silva
         </a>
       </header>
     </div>
